@@ -3,6 +3,19 @@
   "name": "Start a REST API with Node.js",
   "createdAt": "2026-10-15T13:49:05.156Z",
   "filename": "3c4b0a40-7561-499a-bd6c-0b493d5841fa.json",
-  "geminiStarted": false,
-  "messages": []
+  "geminiStarted": true,
+  "messages": [
+    {
+      "id": "e599874f-af1d-4c4d-9045-44e498b5d4a0",
+      "role": "user",
+      "content": "Start a REST API with Node.js",
+      "status": "pending",
+      "model": "gemini-3.8-flash-high",
+      "client_type": "gemini-bridge",
+      "parent_message_id": null,
+      "created_at": "2026-10-15T13:49:07.086Z",
+      "sender": "ios",
+      "is_cancelled": false
+    }
+  ]
 }
